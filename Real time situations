@@ -1,0 +1,39 @@
+### Docker:
+
+1. **Docker Networking:**
+   - How would you troubleshoot a situation where containers in different networks are unable to communicate with each other?
+   - Explain the difference between the bridge network and the host network in Docker. When would you use each?
+
+2. **Docker Security:**
+   - How can you minimize security risks when running Docker containers in a production environment?
+   - What are the implications of running containers with privileged mode? How can you mitigate associated risks?
+
+3. **Docker Performance:**
+   - How would you analyze and optimize the performance of a Docker containerized application?
+   - What tools or techniques do you use to monitor Docker container performance?
+
+4. **Docker Image Management:**
+   - How can you optimize Docker images to reduce their size and improve build times?
+   - Explain how you would use multi-stage builds to create efficient Docker images.
+
+### Kubernetes:
+
+1. **Kubernetes Networking:**
+   - How does Kubernetes handle network traffic between pods in different namespaces?
+   - What is the purpose of Network Policies in Kubernetes, and how do you implement them?
+
+2. **Kubernetes Security:**
+   - What are some best practices for securing Kubernetes clusters and applications running within them?
+   - How do Role-Based Access Control (RBAC) and Network Policies work in Kubernetes?
+
+3. **Kubernetes Scaling and Performance:**
+   - How do you approach scaling applications and workloads in Kubernetes? What are the considerations for both horizontal and vertical scaling?
+   - Describe a scenario where you would use custom metrics to scale Kubernetes workloads.
+
+4. **Kubernetes Troubleshooting:**
+   - How would you diagnose and resolve issues related to pod scheduling and resource allocation?
+   - What tools or methods do you use to monitor and troubleshoot Kubernetes cluster health and performance?
+
+5. **Kubernetes Upgrades and Maintenance:**
+   - What is your strategy for upgrading a Kubernetes cluster while minimizing downtime and ensuring application stability?
+   - How do you manage and apply configuration changes across multiple Kubernetes clusters?
